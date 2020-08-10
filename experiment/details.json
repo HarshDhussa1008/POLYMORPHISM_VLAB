@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Write a Program in Python to Calculate the area of circle, rectangle and triangle using polymorphism",     
+			"Lab": "Python Programming Lab",               
+			"Discipline": "B.Tech",				 
+			"Technology": "Computer Science Engineering & Information Technology"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Paras Nath Singh",         
+      "Institute": "United College of Engineering & Research,Prayagraj",         
+      "InstituteAcronym": "UCER"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Harsh Dhussa",             
+      "Institute": "United College of Engineering & Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       },
+
+       {       
+			"Contributer": "Rishabh Shukla",              
+      "Institute": "United College of Engineering & Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       },
+
+       {       
+			"Contributer": "Kshitiz Saxena",             
+      "Institute": "United College of Engineering & Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       },
+
+       {       
+			"Contributer": "Akash Goswami",              
+      "Institute": "United College of Engineering & Research,Prayagraj",               
+			"InstituteAcronym": "UCER"         
+       }
+   ]
+
+}
